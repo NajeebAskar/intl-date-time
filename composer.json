@@ -1,5 +1,5 @@
 {
-    "name": "techouse/intl-date-time",
+    "name": "najeebaskar/intl-date-time",
     "description": "International datepicker field for Laravel Nova.",
     "keywords": [
         "laravel",
@@ -20,8 +20,8 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0",
-        "illuminate/support": "^5.6 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
+        "php": ">=8.1",
+        "illuminate/support": "^5.6 || ^6.0 || ^7.0 || ^8.0 || ^9.0|| ^10.0",
         "laravel/nova": "*"
     },
     "autoload": {
